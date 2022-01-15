@@ -1,2 +1,2 @@
-# react-hook-useEffect-useMemo-useState
+# redux-counter
 Created with CodeSandbox
